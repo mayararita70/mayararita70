@@ -116,7 +116,6 @@ Projeto web para apresentar produtos, gerenciar estoque e facilitar pedidos pelo
 
 **Conceitos:** Front-end • Supabase • Autenticação • Integração de serviços
 
-> ✨ Adicione os links dos repositórios de cada projeto quando estiverem prontos para divulgação.
 
 ---
 
